@@ -1,0 +1,10 @@
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+.floatLeft{ float: left; }
+.floatRight{ float: right; }
+.clearBoth { clear: both; }
+.clearLeft { clear: left; }
+.clearRight {clear: right;}
+.textAlignLeft {text-align: left;}
+.textAlignRight {text-align: right;}
+.textAlignCenter {text-align: center;} 
